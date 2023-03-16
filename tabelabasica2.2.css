@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+    background-color: beige;
+}
+
+th{background-color: brown;
+    border: 2px solid rgb(233, 151, 151);
+}
+td {
+    border: 1px solid black;
+    text-align: center;
+}
